@@ -2356,7 +2356,7 @@
 
 			select option {
 				color: #ffffff;
-				background: #312450;
+				background: #245028;
 			}
 
 			select:focus::-ms-value {
@@ -2525,7 +2525,7 @@
 				display: block;
 				background: #ffffff;
 				border-radius: 100%;
-				color: #312450;
+				color: #24502b;
 				text-align: center;
 				line-height: 2.5em;
 				margin: 0 0 1.3em 0;
@@ -3370,7 +3370,7 @@
 				display: -webkit-flex;
 				display: -ms-flex;
 				display: flex;
-				background-color: #5e42a6;
+				background-color: #68a642;
 				cursor: default;
 				padding: 1.75em 2em;
 			}
